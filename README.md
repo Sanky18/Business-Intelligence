@@ -1,18 +1,18 @@
 ### Business-Intelligence
 ## THE SITUATION
-Imagine you’ve just been hired by # Adventure Works Cycles*
+Imagine you’ve just been hired by Adventure Works Cycles*
 , a global manufacturing company, to design and deliver an end-to-end business intelligence solution – from scratch!
 ## THE BRIEF
-Your client needs a way to # track KPIs
-(sales, revenue, profit, returns), # compare regional 
+Your client needs a way to track KPIs
+(sales, revenue, profit, returns),  compare regional 
 performance
-, # analyze product-level trends
+, analyze product-level trends
 and # forecasts
-, and # identify high-value customers
+, and identify high-value customers
 All you’ve been given is a folder of raw csv files, containing information about transactions, 
 returns, products, customers and territories
 ## THE OBJECTIVE
-# Use Power BI Desktop to:
+### Use Power BI Desktop to:
 Connect and transform the raw data
 Build a relational data model
 Create new calculated columns and DAX measures
