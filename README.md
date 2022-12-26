@@ -18,4 +18,4 @@ Build a relational data model
 Create new calculated columns and DAX measures
 Design an interactive report to analyze and visualize the data
 ### Complete Business Intelligence Tool
-You can check complete business intelligence tool:https://app.powerbi.com/links/yylASZGgtJ?ctid=187ca15f-54e0-4673-86f6-b6d7f4c75eef&pbi_source=linkShare ,developed to visualise data according to company needs. Feel free to colloborate with my project if you have new data visualisation ideas for business intelligence!.
+You can check complete business intelligence tool:https://app.powerbi.com/links/yylASZGgtJ?ctid=187ca15f-54e0-4673-86f6-b6d7f4c75eef&pbi_source=linkShare ,developed to visualise data according to company needs. Feel free to colloborate to my project workspace(Power BI) if you have new data visualisation ideas for business intelligence.
