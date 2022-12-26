@@ -3,7 +3,7 @@
 Imagine you’ve just been hired by Adventure Works Cycles*
 , a global manufacturing company, to design and deliver an end-to-end business intelligence solution – from scratch!
 ## THE BRIEF
-Your client needs a way to track KPIs
+Your needs a way to track KPIs
 (sales, revenue, profit, returns),  compare regional 
 performance
 , analyze product-level trends
