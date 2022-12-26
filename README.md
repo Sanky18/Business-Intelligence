@@ -13,6 +13,10 @@ All you’ve been given is a folder of raw csv files, containing information abo
 returns, products, customers and territories
 ## THE OBJECTIVE
 ### Use Power BI Desktop to:
+Markup : * Connect and transform the raw data
+         * Build a relational data model
+         * Create new calculated columns and DAX measures
+         * Design an interactive report to analyze and visualize the data
 Connect and transform the raw data
 Build a relational data model
 Create new calculated columns and DAX measures
